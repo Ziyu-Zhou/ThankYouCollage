@@ -38,7 +38,5 @@ void draw(){
   rect(X,Y,100,50,50);
   X=X+bounce;
   }
-   if(X>600){
-    
-   }
+   
 }

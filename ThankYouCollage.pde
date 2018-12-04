@@ -22,9 +22,7 @@ void setup(){
   rect(100,500,600,50,50);
 }
 void draw(){
-   //image(fs,0,370,width/4,height/4);
-   // image(know2,250,370,width/4,height/4);
-   // image(saofs2,500,370,width/3,height/2.5);
+ 
   if(X>600){
    
   friendship=loadImage("friendship.jpeg");

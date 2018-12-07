@@ -4,7 +4,9 @@ PImage fs;
 PImage know2;
 *@pjs preload="saofs2.jpg";*
 PImage saofs2;
+*@pjs preload="friendship.jpeg";*
 PImage friendship;
+*@pjs preload="ty.png";*
 PImage ty;
 int X=100;
 int Y=500;

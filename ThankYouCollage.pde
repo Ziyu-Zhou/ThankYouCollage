@@ -1,5 +1,5 @@
 /*@pjs preload="fs.png,know2.jpg";*/
-PImage fs;ty.png
+PImage fs;
 PImage know2;
 PImage saofs2;
 PImage friendship;

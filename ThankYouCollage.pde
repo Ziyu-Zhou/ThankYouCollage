@@ -1,12 +1,8 @@
-/*@pjs preload="fs.png";*/
+/*@pjs preload="fs.png,know2.jpg";*/
 PImage fs;
-/*@pjs preload="know2.jpg";*/
 PImage know2;
-
 PImage saofs2;
-
 PImage friendship;
-
 PImage ty;
 int X=100;
 int Y=500;

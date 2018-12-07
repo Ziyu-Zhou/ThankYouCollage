@@ -1,4 +1,4 @@
-
+*@pjs preload="saofs2.jpg";*
 PImage fs;
 *@pjs preload="know2.jpg";*
 PImage know2;

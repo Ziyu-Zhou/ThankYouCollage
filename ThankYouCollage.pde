@@ -1,4 +1,4 @@
-/*@pjs preload="fs.png,know2.jpg,saofs2.jpg,friendship.jpeg,ty.png";*/
+/*@pjs preload="fs.png,know2.jpg,saofs2.jpg";*/
 PImage fs;ty.png
 PImage know2;
 PImage saofs2;

@@ -1,5 +1,8 @@
 /*@pjs preload="fs.png";*/
 /*@pjs preload="know2.jpg";*/
+/*@pjs preload="saofs2.jpg";*/
+/*@pjs preload="friendship.jpeg";*/
+/*@pjs preload="ty.png";*/
 
 PImage fs;
 PImage know2;

@@ -1,7 +1,8 @@
-*@pjs preload="saofs2.jpg";*
+*@pjs preload="fs.png";*
 PImage fs;
 *@pjs preload="know2.jpg";*
 PImage know2;
+*@pjs preload="saofs2.jpg";*
 PImage saofs2;
 PImage friendship;
 PImage ty;
@@ -14,7 +15,7 @@ int bounce=5;
 void setup(){
   size(800,600);
   background(16,3,75);
-  fs=loadImage("https://github.com/Ziyu-Zhou/ThankYouCollage/blob/master/friendship.jpeg");
+  fs=loadImage("fs.png");
  image(fs,0,370,width/4,height/4);
   know2=loadImage("know2.jpg");
   image(know2,250,370,width/4,height/4);

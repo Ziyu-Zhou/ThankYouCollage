@@ -33,7 +33,7 @@ void draw(){
  
   image(fs,0,370,width/4,height/4);
   image(know2,250,370,width/4,height/4);
-  image(saofs2,500,370,width/3,height/2.5);
+  image(saofs2,500,370,width/4,height/3.5);
   
   if(X>600){
   

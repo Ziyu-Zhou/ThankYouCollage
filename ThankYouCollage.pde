@@ -42,7 +42,7 @@ void draw(){
   bounce=0;
 }
  
-  if(mousePressed){
+  if(keyPressed){
   noStroke();
   fill(0,0,255);
   rect(X,Y,100,50,50);
